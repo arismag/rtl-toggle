@@ -19,14 +19,16 @@ When the user clicks the extension's icon, a script toggles (or adds it if not s
 ## HOW TO INSTALL EXTENSION
 
 1. Download the extension and store it locally.
-
 2. Open chrome://extensions/ in your Chrome browser.
-
 3. Check developer mode.
-
 4. Click load unpacked extension.
-
 5. Select the directory of the extension.
+6. Enable and pin **rtl-toggle** as you would do with any other extension.
+
+## HOW TO USE
+
+1. Make sure the extension is enabled and pinned.
+2. Just click on the extension's icon ;).
   
 ## SCREENSHOTS
 
