@@ -27,3 +27,10 @@ When the user clicks the extension's icon, a script toggles (or adds it if not s
 4. Click load unpacked extension.
 
 5. Select the directory of the extension.
+  
+## SCREENSHOTS
+
+|Toggled on/Detection|Toggled off|
+|---|---|
+|![Selection_927](https://user-images.githubusercontent.com/10897246/173201404-d1bde1ce-4bbc-4bc4-be9a-b26333fc5df2.png) | ![Selection_926](https://user-images.githubusercontent.com/10897246/173201406-8fce908c-312f-4644-9765-26a29f390bd7.png) |
+ |![Selection_925](https://user-images.githubusercontent.com/10897246/173201407-4b5363ab-1f71-41d1-a629-ed6e0f680f3e.png) | |
