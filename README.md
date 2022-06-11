@@ -1,6 +1,6 @@
 # rtl-toggle
 
-**RTL toggle** is a chrome extension that detects and toggles language direction ('rtl'/'ltr') of the site.
+**rtl-toggle** is a chrome extension that detects and toggles language direction ('rtl'/'ltr') of a site.
 
 When you are developing websites, apps, components etc. for languages that are written from right to left it's really helpful to visualize and toggle the direction in the browser independently from the actual language that is being used.
 
