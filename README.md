@@ -16,6 +16,12 @@ When a new tab is loaded a script is checking the 'dir' attribute of the `<html>
 
 When the user clicks the extension's icon, a script toggles (or adds it if not set) the value of 'dir' attribute of the `<html>` tag to one of the two values 'rtl'/'ltr'.
 
+### Icon states
+
+|LTR|RTL|
+|---|---|
+|![Selection_933](https://user-images.githubusercontent.com/10897246/173202405-8787c67e-1a09-4fc0-ac12-5fe229fcdbac.png)|![Selection_932](https://user-images.githubusercontent.com/10897246/173202403-8400dc5f-1f77-41a4-8270-4e743f8a6430.png)|
+
 ## HOW TO INSTALL EXTENSION
 
 1. Download the extension and store it locally.
