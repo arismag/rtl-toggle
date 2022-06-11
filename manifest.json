@@ -1,0 +1,27 @@
+{
+  "name": "RTL toggle",
+  "description": "This extension detects and toggles language direction ('rtl'/'ltr') of the site.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "Toggle language direction"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": ["rtl-init-check.js"]
+    }
+  ],
+  "icons": {
+    "32": "images/rtl-toggle.png",
+    "48": "images/rtl-toggle.png",
+    "128": "images/rtl-toggle.png"
+  }
+}
