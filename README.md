@@ -26,7 +26,7 @@ When the user clicks the extension's icon, a script toggles (or adds it if not s
 
 ### Chrome webstore
 
-1. Install via [chrome webstore](https://chrome.google.com/webstore/detail/rtl-toggle/diimdfmlegodnjbcgajllidffehegdbc)
+1. Install via [chrome webstore](https://chrome.google.com/webstore/detail/rtl-toggle/diimdfmlegodnjbcgajllidffehegdbc).
 
 ### Local installation
 
