@@ -45,4 +45,4 @@ When the user clicks the extension's icon, a script toggles (or adds it if not s
  
  ## TODO
  
- - Some sites set the `dir` attribute on the `<body>` tag, so a condition should be add also for this case.
+ - Some sites set the `dir` attribute on the `<body>` tag, so a condition should also be added for this case.
