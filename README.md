@@ -54,3 +54,8 @@ The extension can be installed via chrome webstore or locally.
  ## TODO
  
  - Some sites set the `dir` attribute on the `<body>` tag, so a condition should also be added for this case.
+
+# SUPPORT
+
+If you enjoy my work and want to support what I do, feel free to buy me a coffee! Every cup fuels my passion for crafting seamless web experiences and exploring new musical frontiers. ☕🎵
+👉 Buy Me a Coffee at https://buymeacoffee.com/arismag
